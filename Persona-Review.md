@@ -1,4 +1,4 @@
-# Alex Rivera
+# **Alex Rivera**
 # First Impression
 - Alex would likely notice whether the website is modern, fastand easy to navigate. Since he often shops using his phone, he would appreciate a mobile-friendly design with clear product category and a search bar.
 
