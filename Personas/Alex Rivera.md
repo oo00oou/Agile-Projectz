@@ -43,15 +43,14 @@
 
 ## Motivations
 
-- [Decluttering]  
+- [Likes online shopping]  
 - [Helping others]
 - [Saving a bit of money]  
 
 ---
 
 ## Tech Comfort
-
-- [High]  
-- [Device use is sporadic]  
-- [Uses the latest devices available]
-- [Uses a macbook pro]
+  
+- [Device use is frequent]  
+- [Uses older model but ]
+- [Early Adopter]
