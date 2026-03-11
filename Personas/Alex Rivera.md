@@ -19,7 +19,7 @@
 
 ## Bio
 
-- Alex is university student that has a part-time at a local retail shop. Alex is a . 
+- Alex is a working student who loves to use the internet mainly for online shopping. He shops from his favorite brands like Nike, Adidas and Apple products and mainly uses different e-commerce sites for purchasing items. He appreciates online shopping sites that filters products quickly and has a smooth check out process.
 
 ---
 
