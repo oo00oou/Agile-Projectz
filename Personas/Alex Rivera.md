@@ -3,7 +3,7 @@
 
 # Persona Profile
 
-![Personas](Persona/Alexrivera.png)  
+![Persona](Personas/Alexrivera.png)  
 *Figure 1: Add image source*
 
 ---
