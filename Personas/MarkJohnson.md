@@ -48,6 +48,8 @@
 
 ## Tech Comfort
   
-- [Doesn't have the latest device]  
-- [Only uses device for messaging and online transactions ]
-- []
+- [Comfortable using smartphones and basic applications]  
+- [Prefers simple and familiar website layouts]
+- [Uses technology mainly for messaging, banking, and online shopping]
+- [Does not frequently update device or install new applications]
+- [Needs clear instructions when using new digital services]

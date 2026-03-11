@@ -48,6 +48,7 @@
 
 ## Tech Comfort
   
-- [Device use is frequent]  
-- [Uses the latest device possible]
-- [Tech-Savvy]
+- [Uses smartphones, tablet, and laptops daily]  
+- [Comfortable installing and using new applications]
+- [Frequently shops online and compares products]
+- [Quickly adapts to new technology and website interfaces]

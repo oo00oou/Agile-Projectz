@@ -43,14 +43,17 @@
 
 ## Motivations
 
-- [Likes online shopping]  
-- [Helping others]
-- [Saving a bit of money]  
+- [Finding the latest products from favorite brands]  
+- [Convenience of shopping online anytime]
+- [Saving money through discounts and deals]
+- [Reading reviews to make better purchase decisions] 
 
 ---
 
 ## Tech Comfort
   
-- [Device use is frequent]  
-- [Uses older model but ]
-- [Early Adopter]
+- [Uses smartphone and laptop daily]  
+- [Comfortable navigating e-commerce websites and applications]
+- [Regularly compares products and prices online]
+- [Familiar with online payments methods such as Paypal and Apple Pay]
+- [Quickly learns how to use new apps and online platforms]
