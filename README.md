@@ -1,4 +1,4 @@
-# this is a title for the readme
+# Agile Project - Report
 
 Contributors:
 1. Janssen
