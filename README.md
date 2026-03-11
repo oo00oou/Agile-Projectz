@@ -1,4 +1,4 @@
-# Agile Project - Report
+# Agile Projects - Report
 
 Contributors:
 1. Janssen
