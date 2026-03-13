@@ -8,7 +8,7 @@ Contributors:
 
 ### Assignment Requirements:
 
-1.Record your weekly meetings for Iteration 1 – use the Group Meeting Report template.
+1. Record your weekly meetings for Iteration 1 – use the Group Meeting Report template.
 Make sure you include (meeting agenda, date, meeting actions, attendees, and
 information about the next meeting).
 
