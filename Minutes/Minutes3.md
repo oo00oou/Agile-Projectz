@@ -14,7 +14,7 @@
 John Jamieson
 
 **Team Name**
-JaLu
+Broly
 
 **Group Lead:**
 Jansson
@@ -45,7 +45,7 @@ John Jamieson
 Reforming Luke from Group Freeza into a new group with Janssen. 
 
 **Conclusions:**
-Janssen and Luke have formed a group in week 4 (Group JaLu).
+Janssen and Luke have formed a group in week 4 (Group Broly).
 
 #### Action 
 ---
@@ -65,7 +65,7 @@ Janssen
 The creation of our groups GitHub repository.
 
 **Conclusions:**
-Janssen will be in charge of creating Group JaLu's repository.
+Janssen will be in charge of creating Group Broly's repository.
 
 #### Action 
 ---
