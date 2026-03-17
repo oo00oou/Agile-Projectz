@@ -24,3 +24,17 @@ commerce website.
 impressions as a user and whether they are relevant.
 
 
+All images were generated using ChatGPT 
+ChatGPT Reference
+
+OpenAI. (2023). ChatGPT (Mar 14 version) [Large language model]. https://chat.openai.com/chat
+
+
+ChatGPT In-Text Citation
+
+OpenAI (2023) stated ...
+OR
+... (OpenAI, 2023).
+
+
+
