@@ -4,7 +4,8 @@
 
 ### Janssen:
 ---
-Report Here
+My contribution for the first week to this group was that I had set up the GitHub repository of the group. For the 2nd week I had created the outline for the stakeholder registration and at the same time had thought of a few personas for the project and had created a bio for each of the personas that I've made. Since I wasn't in a group for 2 weeks, John has assigned another student for me to pair up with. In week 3 we had finalized the personas, and I had written the persona review. I wrote the first and final impressions for each of the personas. Luke and I had a discussion in class on what to do next for the first iteration; Luke went ahead and edited the stakeholder registration to match our project needs. For the previous week we had finalized all the required documents required for the first iteration.
+
 
 
 ### Luke: 
