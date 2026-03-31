@@ -17,4 +17,4 @@
 - Mark would like a simple and reliable website where he can easily navigate products without spending too much time searching.
 
 # Final Impression
-- Mark would feel confident using the platform again if the website allows him to purchase items, has a fast checkout process, and will give him a clear delivery information.
+- Mark would feel confident using the platform again if the website allows him to purchase items, has a fast checkout process, and will give him a clear delivery information. Trial
