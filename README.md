@@ -38,5 +38,26 @@ OpenAI (2023) stated ...
 OR
 ... (OpenAI, 2023).
 
+## Iteration 2
 
+### Assignment Requirements:
+
+1. Record your weekly meetings for Iteration 2 – use the Group Meeting Report
+template. Make sure you include (meeting agenda, date, meeting actions, attendees,
+and information about the next meeting).
+
+2. As part of your project planning complete a detailed Gantt chart – use the Gantt Chart
+template. It can include (task requirements, start date, end date, and completed by).
+You are allowed to take a screenshot to include in your markdown. Please note: You
+will need to submit the actual file in your Handover at the end of Week 13.
+
+3. Refer to your Stakeholder Register and assign the tasks identified in the Gantt chart.
+Record this information into GitHub boards.
+
+4. Complete a Resource Requirement List for the Project. Explain why you need for these
+resources – include (resource name, description, cost, task code).
+
+5.As a Group, test and review the new changes/readme.md file pushed to GitHub
+repository. Test the uploaded file and record any issues on GitHub. Make sure all issues
+are resolved
 
