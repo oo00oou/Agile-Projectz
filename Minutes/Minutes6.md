@@ -52,7 +52,7 @@
 
 **Discussion:** Janssen had begun forming the Gantt Chart for the Application's development.
 
-**Conclusions:** Janssen will be resposnible fore uploading the chart to the repository.
+**Conclusions:** Janssen will be resposnible for uploading the chart to the repository.
 
 #### Action 
 
