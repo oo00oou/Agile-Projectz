@@ -12,10 +12,10 @@
 
 **Sponsor:** John Jamieson<br>
 **Team Broly**<br>
-**Group Lead:**<br> Janssen
+**Group Lead:** <br> Janssen
 **Note taker:** Luke
 
-**Attendees:**<br> Janssen, Luke
+**Attendees:** <br> Janssen, Luke
 **Absent:**
 
 **Please bring:**
