@@ -10,4 +10,4 @@
 
 ## Resolution: 
 
-- Removed markdown file and uploaded a screenshot
+- Removed markdown file and uploaded a screenshot of the GANTT chart
