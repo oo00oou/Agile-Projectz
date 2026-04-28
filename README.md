@@ -57,7 +57,7 @@ Record this information into GitHub boards.
 4. Complete a Resource Requirement List for the Project. Explain why you need for these
 resources – include (resource name, description, cost, task code).
 
-5.As a Group, test and review the new changes/readme.md file pushed to GitHub
+5. As a Group, test and review the new changes/readme.md file pushed to GitHub
 repository. Test the uploaded file and record any issues on GitHub. Make sure all issues
 are resolved
 
