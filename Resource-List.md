@@ -10,4 +10,4 @@
 | 2.0 | Record Weekly Meeting | Team Member | 1 hour | 1 × 30 = $30 |
 | 2.1 | Complete Gantt Chart | Team Member | 4 hours | 4 × 30 = $120 |
 | 2.2 | Resource Requirement List | Team Member | 2 hours | 2 × 30 = $60 |
-| **Total** ||||| $1010 |
+| **Total** ||||**$1010**|  |
