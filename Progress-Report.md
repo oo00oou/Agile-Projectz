@@ -17,6 +17,9 @@ My main contribution of the first week was being a proactive member of group dis
 
 ### Janssen:
 ---
+We had a few meetings for this iteration on what we have to do, we had discuss and appoint tasks on which we have to do for this iteration. My main contribution for this iteration is I did the GANTT chart, the resource table and added the testing and issues markdown file as part of the scope, We also found it useful when we find any errors and we could just log it and whenver we fix the issue we could update it aswell. We had a miscommunication on doing the resource table, it had skipped my mind that Luke was going to do the resource table, better communication on my part would need to be improved for the next iteration. 
+
+
 
 ### Luke: 
 ---
