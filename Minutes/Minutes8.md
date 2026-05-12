@@ -37,7 +37,7 @@
 
 | Action item | Person Responsible | Deadline |
 |---|---|---|
-| Risk Register and Division of HTML files | Janssen | 05/05/2026 |
+| Risk Register and Division of HTML files | Janssen & Luke | 05/05/2026 |
 
 
 ---
@@ -59,7 +59,7 @@
 
 | Action item | Person Responsible | Deadline |
 |---|---|---|
-| Risk Register | Janssen | 13/05/2026 |
+| Risk Register | Luke | 20/05/2026 |
 
 ---
 
