@@ -37,10 +37,10 @@
 
 | Action item | Person Responsible | Deadline |
 |---|---|---|
-| Risk Register | Janssen | 20/05/2026 |
+| Risk Register | Luke | 20/05/2026 |
 
 
----
+
 
 ------------------------------------------------------------------------
 
