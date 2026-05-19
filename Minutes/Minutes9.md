@@ -45,7 +45,25 @@
 ------------------------------------------------------------------------
 
 
-**Date of next meeting:** 20/05/2026
+**Date of next meeting:** 19/05/2026
+
+## Agenda Items
+
+### Agenda Item 1: Risk Register
+
+**Presenter:** Janssen
+
+**Discussion:** Upload all necessary HTML files. 
+
+**Conclusions:** Upload and Deploy HTML files to github.
+
+#### Action 
+
+
+| Action item | Person Responsible | Deadline |
+|---|---|---|
+| Deployment of Website| Luke and Janssen | 19/05/2026 |
+
 
 ------------------------------------------------------------------------
 
