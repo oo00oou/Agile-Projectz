@@ -24,3 +24,13 @@ We had a few meetings for this iteration on what we have to do, we had discuss a
 ### Luke: 
 ---
 For iteration 2 I was tasked with linking a KanBan to our repository to help with task delegation. This was meant to be implemented early on so that monitoring workflow would be easy for our tasks for this iteration. I failed to achieve this due to not being the creator of the repository. However with the help of John we were able to figure out how to work around this. My other contributions for the iteration were updating the ReadMe file as well as forming and uploading our meeting reports. Janssen was in charge of creating the Gantt Chart for the project, and he had made a start to the Resource Register. We decided that I would take over the Resource Register as I wanted a task to complete. We could have communicated the handover for this task clearer between each other. As I have formed a register that describes the project from initial to post-launch, but wanted it to display tasks shown in the Gantt Chart. It seems Janssen has also completed a register that aligns with his Gantt and pushed it to the repository, and I don’t wish to alter it before presenting my version to him. Our main issue for this iteration has been communication. I believed having Discord would've mitigated any miscommunications and helped reinforce our tasking. It is clear we both need to interact more to benefit our project outcome. 
+
+
+# Progress Report - Iteration 3
+---
+
+Janssen:
+For this iteration the communication between group members got better and the workflow has improved.
+My main contribution for the 3rd iteration was I did note all the meeting minutes, we shared our input with the risk register, and I did the user data testing for the group. I also updated the groups GANTT chart. I tested and uploaded a part of the website that was given to us by the lecturer. I updated the testing and issues part for this iteration on what’s not working, 
+With this improvement we had finished all the work on time.
+
