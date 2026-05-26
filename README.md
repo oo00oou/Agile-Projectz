@@ -24,7 +24,7 @@ commerce website.
 impressions as a user and whether they are relevant.
 
 
-All images were generated using ChatGPT 
+All Persona photos were generated using ChatGPT 
 
 
 ChatGPT Reference
@@ -61,3 +61,27 @@ resources – include (resource name, description, cost, task code).
 repository. Test the uploaded file and record any issues on GitHub. Make sure all issues
 are resolved
 
+
+## Iteration 3
+
+### Assignment Requirements:
+
+1. Record your weekly meetings for Iteration 3 – use the Group Meeting Report template.
+Make sure you include (meeting agenda, date, meeting actions, attendees, and
+information about the next meeting).
+
+2. Complete a Risk Register to identify and manage actual risks during the progress of
+your project. Make sure you include (description of risk, likelihood, severity, and a clear
+resolve plan).
+
+3. Once each Group member has ‘pushed’ the files (Home.html, Orders.html, and
+Products.html) to GitHub, then merge.
+
+4. Next, check the integration and publish.
+(Each page contains a unique code, and all group members need to merge these files
+on GitHub and test whether they are in a complete format. Please refer to Lab sessions
+under iteration 3 for information about GitHub merge and GitHub pages).
+
+5. To make sure the project management implementation is successful (good quality, with
+minimal or no errors), carry out manual user testing, and complete the User Acceptance
+Test Results template.
