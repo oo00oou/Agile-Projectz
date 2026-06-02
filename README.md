@@ -23,7 +23,7 @@ commerce website.
 4. As a Group, review the three (3) personas. You may wish to include first and final
 impressions as a user and whether they are relevant.
 
-
+## Persona Notes
 All Persona photos were generated using ChatGPT 
 
 
@@ -37,6 +37,12 @@ ChatGPT In-Text Citation
 OpenAI (2023) stated ...
 OR
 ... (OpenAI, 2023).
+
+## Meeting Notes 
+Luke was responsible for recording the meeting notes for this iteration of the project. He used the provided template on Moodle to carry out the documentation of these interactions.
+
+## Stakeholder Register Notes 
+The register was initially put together by Janssen using the template provided. When Group Broly was formed Luke was assigned to take over the finalisation of the register table.  
 
 ## Iteration 2
 
@@ -95,6 +101,9 @@ For the project, we took into account the need for laptops & PCs. Therefore, eac
 5x laptops 500 NZD each
 2x PCs at 1000 NZD each
 
+## Meeting Notes 
+Luke was responsible for recording the meeting notes for this iteration of the project. He used the provided template on Moodle to carry out the documentation of these interactions.
+
 ## Iteration 3
 
 ### Assignment Requirements:
@@ -118,3 +127,9 @@ under iteration 3 for information about GitHub merge and GitHub pages).
 5. To make sure the project management implementation is successful (good quality, with
 minimal or no errors), carry out manual user testing, and complete the User Acceptance
 Test Results template.
+
+## Risk Register Notes 
+For this register table, we evenly split the tasks. Coming up with risks, ratings, and the respective information, we hoped to cover a broad range of potential risks that posed threats to our project at any stage.
+
+## Meeting Notes 
+Janssen was responsible for recording the meeting notes for this iteration of the project. He used the provided template on Moodle to carry out the documentation of these interactions.
