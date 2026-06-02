@@ -38,10 +38,10 @@ OpenAI (2023) stated ...
 OR
 ... (OpenAI, 2023).
 
-## Meeting Notes 
+### Meeting Notes 
 Luke was responsible for recording the meeting notes for this iteration of the project. He used the provided template on Moodle to carry out the documentation of these interactions.
 
-## Stakeholder Register Notes 
+### Stakeholder Register Notes 
 The register was initially put together by Janssen using the template provided. When Group Broly was formed Luke was assigned to take over the finalisation of the register table.  
 
 ## Iteration 2
@@ -67,7 +67,7 @@ resources – include (resource name, description, cost, task code).
 repository. Test the uploaded file and record any issues on GitHub. Make sure all issues
 are resolved
 
-## Resource Requirement Notes
+### Resource Requirement Notes
 
 For structuring my project phases I utilised the project life cycle graphic found in nearly every weeks slides. As well as the graphic from this resource: 
 
@@ -101,7 +101,7 @@ For the project, we took into account the need for laptops & PCs. Therefore, eac
 5x laptops 500 NZD each
 2x PCs at 1000 NZD each
 
-## Meeting Notes 
+### Meeting Notes 
 Luke was responsible for recording the meeting notes for this iteration of the project. He used the provided template on Moodle to carry out the documentation of these interactions.
 
 ## Iteration 3
@@ -128,8 +128,8 @@ under iteration 3 for information about GitHub merge and GitHub pages).
 minimal or no errors), carry out manual user testing, and complete the User Acceptance
 Test Results template.
 
-## Risk Register Notes 
+### Risk Register Notes 
 For this register table, we evenly split the tasks. Coming up with risks, ratings, and the respective information, we hoped to cover a broad range of potential risks that posed threats to our project at any stage.
 
-## Meeting Notes 
+### Meeting Notes 
 Janssen was responsible for recording the meeting notes for this iteration of the project. He used the provided template on Moodle to carry out the documentation of these interactions.
