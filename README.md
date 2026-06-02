@@ -23,7 +23,7 @@ commerce website.
 4. As a Group, review the three (3) personas. You may wish to include first and final
 impressions as a user and whether they are relevant.
 
-## Persona Notes
+### Persona Notes
 All Persona photos were generated using ChatGPT 
 
 
