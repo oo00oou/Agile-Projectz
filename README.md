@@ -61,6 +61,39 @@ resources – include (resource name, description, cost, task code).
 repository. Test the uploaded file and record any issues on GitHub. Make sure all issues
 are resolved
 
+## Resource Requirement Notes
+
+For structuring my project phases I utilised the project life cycle graphic found in nearly every weeks slides. As well as the graphic from this resource: 
+
+EdrawMind. (n.d.). E-commerce site developing WBS diagram. EdrawMind. https://www.edrawmind.com/mind-maps/28413/e-commerce-site-developing-wbs-diagram
+
+To get a relatively realistic time schedule for a project of this scale I took the estimations provided by these two website sources to get average. I then queried Microsoft Copilot to split these up in accordance with the work load associated with each task in that phase. I checked to verify the values were realistic. There was not any estimation of post-launch activities that may occur after the deployment. So the average time estimation for that phase was completely fabricated based on the values I could obtain.    
+
+TechQuarter. (n.d.). How long does it take to build an e‑commerce website? TechQuarter. https://techquarter.io/blog-how-long-does-it-take-to-build-an-e-commerce-website/
+
+Wired in Commerce. (n.d.). Planning for e‑commerce website development. Wired in Commerce. https://www.wiredincommerce.co.uk/ecommerce-development/planning-for-ecommerce-website-development
+
+Microsoft. (2025). Copilot (GPT‑4) [Large language model]. https://copilot.microsoft.com
+
+For IT tools/softwares I searched appropriate statements in my browser to query for suitable options. I mostly chose options that had free versions that still allowed our small team to fulfil their deliverables. One that was not free was Windcave at 18 NZD per month; which I added to cover a 12 month period at 180 NZD. BrowserStack was the other tool that costed at 256 NZD for a month of access, but for what it is doing i thought necessary.  
+
+The rates of stakeholders involved in the project were all approximated. I tiered them by profession and potential experience to try make the overall project estimation realistic. They are shown below: 
+
+| Stakeholder | Rate (per hour) | 
+|--|--|
+|John (Sponsor)| $0 |
+|Ruby (Sponsor)| $0 |
+|Luke (Project Manager)| $30 |
+|Janssen (Lead Developer)| $30 |
+|Michael (Senior Developer)| $35 |
+|Jim (Legal advisor)| $45 |
+|Dan (Customer Support)| $25 |
+
+### Additional Costing Notes:
+For the project, we took into account the need for laptops & PCs. Therefore, each internal member of the project that required a device was accounted for by adding this cost once, when that member appeared for the first time in the requirement list. 
+
+5x laptops 500 NZD each
+2x PCs at 1000 NZD each
 
 ## Iteration 3
 
